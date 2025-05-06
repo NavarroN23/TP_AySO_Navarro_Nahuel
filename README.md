@@ -1,3 +1,3 @@
-Alumno: <Nahuel Navarro>
+Alumno: <Nahuel-Navarro>
 División: <211>
-Turno: <Turno Tarde>
+Turno: <Turno-Tarde>
