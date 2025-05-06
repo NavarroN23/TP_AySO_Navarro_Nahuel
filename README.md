@@ -1,1 +1,3 @@
-# TP_AySO_Navarro_Nahuel
+Alumno: <Nahuel Navarro>
+División: <211>
+Turno: <Turno Tarde>
